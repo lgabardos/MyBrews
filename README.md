@@ -1,7 +1,5 @@
 # MyBrews
 
-# MyBrews
-
 This project is there to help brewers to manage their brew. 
 So, when you start a new brew, you will be able to configure your brew with steps, timing etc... 
 Then, alarm will warn you when needed.
