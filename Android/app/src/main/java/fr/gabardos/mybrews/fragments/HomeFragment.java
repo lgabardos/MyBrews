@@ -1,7 +1,7 @@
 package fr.gabardos.mybrews.fragments;
 
 import android.os.Bundle;
-import android.app.Fragment;
+import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,7 +25,7 @@ public class HomeFragment extends Fragment {
      *
      * @return A new instance of fragment HomeFragment.
      */
-    public static HomeFragment newInstance(String param1, String param2) {
+    public static HomeFragment newInstance() {
         return new HomeFragment();
     }
 
