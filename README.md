@@ -36,8 +36,10 @@ See also the list of [contributors](https://github.com/lgabardos/MyBrews/contrib
 
 This project is licensed under the GNU GPL v3 - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Knowledges
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+If you want to contribute to this project, here are knowledges you may need to have
+
+* Develop Android applications
+* How to brew a beer ([example of steps](https://www.brouwland.com/content/docs/056/Brouwschema's/web/056.013.6_BREW-SH_NL-FR-EN-DE_BryggjaTripel.pdf) + [detailed steps](https://www.brouwland.com/content/docs/056/056%20Moutpakketten%20Brewferm/056.014.4-056.039.1_MAN_NL-FR-EN-DE-IT-SP-NO-DK_Moutpakket_16p_print.pdf))
+* How to drink a beer (very important)
