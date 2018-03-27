@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Brews</string>
+    <string name="navigation_drawer_open">Ouverture du panneau de navigation</string>
+    <string name="navigation_drawer_close">Fermeture du panneau de navigation</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="error.code.1">La classe \"%1$s\" n\'est pas mappée</string>
+    <string name="error.code.2">Trop de résultat pour l\'objet \"%1$s\" avec l\'id \"%2$d\"</string>
+    <string name="error.code.3">\"%1$s\" avec id \"%2$d\" non trouvé</string>
+</resources>
