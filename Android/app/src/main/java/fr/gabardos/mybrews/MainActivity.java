@@ -54,8 +54,7 @@ public class MainActivity extends AppCompatActivity
             if (savedInstanceState != null) {
                 return;
             }
-            getSupportFragmentManager().beginTransaction()
-                    .add(R.id.fragment_container, HomeFragment.newInstance()).commit();
+            getSupportFragmentManager().beginTransaction().add(R.id.fragment_container, HomeFragment.newInstance()).commit();
 
         }
     }
@@ -98,9 +97,11 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
-//        if (id == R.id.nav_camera) {
-//            // Handle the camera action
-//        } else if (id == R.id.nav_gallery) {
+        if (id == R.id.nav_home) {
+            // Handle the camera action
+            getSupportFragmentManager().beginTransaction().add(R.id.fragment_container, HomeFragment.newInstance()).commit();
+        }
+//        else if (id == R.id.nav_gallery) {
 //
 //        } else if (id == R.id.nav_slideshow) {
 //
